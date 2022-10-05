@@ -1,0 +1,51 @@
+{
+	"name": "react-minimal-2nd-boilerplate",
+	"version": "0.0.0",
+	"private": true,
+	"description": "",
+	"repository": {
+		"type": "git",
+		"url": ""
+	},
+	"scripts": {
+		"build": "vite build",
+		"dev": "vite",
+		"lint": "eslint . --ext .ts,.tsx,.js,.jsx",
+		"serve": "vite preview",
+		"test": "vitest"
+	},
+	"browserslist": [
+		"defaults",
+		"not dead",
+		"not ie 11",
+		"not op_mini all"
+	],
+	"dependencies": {
+		"react": "^18.2.0",
+		"react-dom": "^18.2.0",
+		"react-router-dom": "^6.3.0"
+	},
+	"devDependencies": {
+		"@antfu/eslint-config": "^0.27.0",
+		"@testing-library/jest-dom": "^5.16.4",
+		"@testing-library/react": "^13.4.0",
+		"@testing-library/user-event": "^14.3.0",
+		"@types/react": "^18.0.21",
+		"@types/react-dom": "^18.0.6",
+		"@types/testing-library__jest-dom": "^5.14.5",
+		"@vitejs/plugin-react": "^2.1.0",
+		"autoprefixer": "^10.4.12",
+		"eslint": "^8.24.0",
+		"jsdom": "^20.0.1",
+		"postcss": "^8.4.17",
+		"tailwindcss": "^3.1.8",
+		"typescript": "^4.8.4",
+		"vite": "^3.1.4",
+		"vite-plugin-pwa": "^0.13.1",
+		"vite-tsconfig-paths": "^3.5.1",
+		"vitest": "^0.23.4"
+	},
+	"engines": {
+		"node": ">=16"
+	}
+}

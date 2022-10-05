@@ -1,0 +1,13 @@
+{
+	"prettier.enable": false,
+	"editor.tabSize": 2,
+	"editor.foldingStrategy": "indentation",
+	"editor.wordWrap": "on",
+	"editor.suggestSelection": "first",
+	"editor.formatOnSave": false,
+	"editor.codeActionsOnSave": {
+		"source.fixAll.eslint": true
+	},
+	"typescript.suggest.autoImports": true,
+	"typescript.tsdk": "node_modules/typescript/lib"
+}
