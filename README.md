@@ -4,7 +4,7 @@
   <p>
     A React boilerplate with mininal setup to help you quickly kickstart your applications.
   </p>
-  <img src="https://img.shields.io/github/license/boilertowns/react-minimal-2nd-boilerplate?style=flat-square" alt="MIT license" >
+  <img src="https://img.shields.io/github/license/boilertowns/react-minimal-v2-boilerplate?style=flat-square" alt="MIT license" >
 </div>
 
 ## Introduction
@@ -33,16 +33,16 @@ The setup is _opinionated_ as it is based on my experience of working with diffe
 
   ```sh
   # npm
-  npm create boilertowns@latest -- -b react-minimal-2nd-boilerplate
+  npm create boilertowns@latest -- -b react-minimal-v2-boilerplate
 
   # yarn
-  yarn create boilertowns -b react-minimal-2nd-boilerplate
+  yarn create boilertowns -b react-minimal-v2-boilerplate
 
   # pnpm
-  pnpm create boilertowns -b react-minimal-2nd-boilerplate
+  pnpm create boilertowns -b react-minimal-v2-boilerplate
 
   # bun
-  bun create boilertowns/react-minimal-2nd-boilerplate [project-name]
+  bun create boilertowns/react-minimal-v2-boilerplate [project-name]
   ```
 
 - Click the green "Use this template" button to generate a new repository with the same structure and files.
@@ -79,7 +79,7 @@ The setup is _opinionated_ as it is based on my experience of working with diffe
 
 ## Contributing
 
-**react-minimal-2nd-boilerplate** ❤️ your contributions. If you have any ideas, suggestions, fixes, feel free to contribute.
+**react-minimal-v2-boilerplate** ❤️ your contributions. If you have any ideas, suggestions, fixes, feel free to contribute.
 
 [boilertowns-url]: https://github.com/boilertowns
 [react-url]: https://beta.reactjs.org

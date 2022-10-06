@@ -1,11 +1,11 @@
 {
-	"name": "react-minimal-2nd-boilerplate",
+	"name": "react-minimal-v2-boilerplate",
 	"version": "0.0.0",
 	"private": true,
 	"description": "",
 	"repository": {
 		"type": "git",
-		"url": ""
+		"url": "https://github.com/boilertowns/react-minimal-v2-boilerplate.git"
 	},
 	"scripts": {
 		"build": "vite build",
