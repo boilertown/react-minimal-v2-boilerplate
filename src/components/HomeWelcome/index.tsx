@@ -1,1 +1,1 @@
-export * from './HomeWelcome';
+export * from './HomeWelcome'

@@ -21,5 +21,5 @@ export const HomeWelcome = () => {
 				Welcome to Boilertowns
 			</h1>
 		</>
-	);
-};
+	)
+}
