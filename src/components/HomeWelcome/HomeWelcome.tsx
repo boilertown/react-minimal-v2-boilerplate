@@ -18,7 +18,7 @@ export const HomeWelcome = () => {
 				</figcaption>
 			</figure>
 			<h1 className="text-3xl text-center	font-bold my-4">
-				Welcome to Boilertowns
+				Welcome to Boilertown
 			</h1>
 		</>
 	)

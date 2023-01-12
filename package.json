@@ -5,7 +5,7 @@
 	"description": "",
 	"repository": {
 		"type": "git",
-		"url": "https://github.com/boilertowns/react-minimal-v2-boilerplate.git"
+		"url": "https://github.com/boilertown/react-minimal-v2-boilerplate.git"
 	},
 	"scripts": {
 		"build": "vite build",

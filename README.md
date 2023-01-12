@@ -4,12 +4,12 @@
   <p>
     A React boilerplate with mininal setup to help you quickly kickstart your applications.
   </p>
-  <img src="https://img.shields.io/github/license/boilertowns/react-minimal-v2-boilerplate?style=flat-square" alt="MIT license" >
+  <img src="https://img.shields.io/github/license/boilertown/react-minimal-v2-boilerplate?style=flat-square" alt="MIT license" >
 </div>
 
 ## Introduction
 
-This setup is simplier than [react-nostalgia-boilerplate](https://github.com/boilertowns/react-nostalgia-boilerplate) version.
+This setup is simplier than [react-nostalgia-boilerplate](https://github.com/boilertown/react-nostalgia-boilerplate) version.
 
 - Use `Vite` to develop locally and create bundle for production.
 - Use `Vitest` to perform Unit test.
@@ -29,20 +29,20 @@ The setup is _opinionated_ as it is based on my experience of working with diffe
 
 ## Get Started
 
-- Use [Boilertowns](https://github.com/boilertowns/create-boilertowns) CLI.
+- Use [Boilertown](https://github.com/boilertown/create-boilertown) CLI.
 
   ```sh
   # npm
-  npm create boilertowns@latest -- -b react-minimal-v2-boilerplate
+  npm create boilertown@latest -- -b react-minimal-v2-boilerplate
 
   # yarn
-  yarn create boilertowns -b react-minimal-v2-boilerplate
+  yarn create boilertown -b react-minimal-v2-boilerplate
 
   # pnpm
-  pnpm create boilertowns -b react-minimal-v2-boilerplate
+  pnpm create boilertown -b react-minimal-v2-boilerplate
 
   # bun
-  bun create boilertowns/react-minimal-v2-boilerplate [project-name]
+  bun create boilertown/react-minimal-v2-boilerplate [project-name]
   ```
 
 - Click the green "Use this template" button to generate a new repository with the same structure and files.
@@ -81,7 +81,7 @@ The setup is _opinionated_ as it is based on my experience of working with diffe
 
 **react-minimal-v2-boilerplate** ❤️ your contributions. If you have any ideas, suggestions, fixes, feel free to contribute.
 
-[boilertowns-url]: https://github.com/boilertowns
+[boilertown-url]: https://github.com/boilertown
 [react-url]: https://beta.reactjs.org
 [react-router-url]: https://reactrouter.com
 [typescript-url]: https://www.typescriptlang.org
